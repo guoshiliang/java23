@@ -1,0 +1,8 @@
+com\kaishengit\crm\mapper\AccountDeptMapper.class
+com\kaishengit\crm\mapper\SaleChanceRecordMapper.class
+com\kaishengit\crm\mapper\SaleChanceMapper.class
+com\kaishengit\crm\mapper\DeptMapper.class
+com\kaishengit\crm\mapper\AccountMapper.class
+com\kaishengit\crm\mapper\CustomerMapper.class
+com\kaishengit\crm\mapper\DiskMapper.class
+com\kaishengit\crm\mapper\TaskMapper.class

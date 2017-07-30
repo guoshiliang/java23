@@ -1,0 +1,8 @@
+com\kaishengit\crm\service\impl\DeptServiceImpl.class
+com\kaishengit\crm\service\impl\AccountServiceImpl.class
+com\kaishengit\crm\service\impl\SaleChanceServiceImpl.class
+com\kaishengit\crm\service\impl\TaskServiceImpl.class
+com\kaishengit\quartz\jobs\WeixinNotifyJob.class
+com\kaishengit\crm\service\impl\DiskServiceImpl.class
+com\kaishengit\quartz\jobs\SpringJob.class
+com\kaishengit\crm\service\impl\CustomerServiceImpl.class

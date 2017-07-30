@@ -1,0 +1,6 @@
+com\kaishengit\crm\service\AccountService.class
+com\kaishengit\crm\service\DiskService.class
+com\kaishengit\crm\service\TaskService.class
+com\kaishengit\crm\service\CustomerService.class
+com\kaishengit\crm\service\SaleChanceService.class
+com\kaishengit\crm\service\DeptService.class
